@@ -23,8 +23,6 @@ Used Python and pandas to explore student spending patterns, examine relationshi
 ### 📊 [COVID-19 Deaths and Vaccination Analysis](https://github.com/cheans409/Covid-19-deaths-and-Vaccination-analysis)
 Used SQL Server, Excel, and Tableau to investigate COVID-19 trends, vaccination progress, and geographic differences.
 
-### 📈 S&P 500 Market Analysis
-Exploring market trends, volatility, and sector performance through Python-based financial data analysis.
 
 ## Currently Learning
 
