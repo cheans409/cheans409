@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Ansh 👋
 
-<!--
-**cheans409/cheans409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Technology and Information Management and Business Economics student at UC Santa Cruz interested in **data analytics, business intelligence, and data-driven decision-making**.
 
-Here are some ideas to get you started:
+I enjoy working with data to identify trends, investigate business questions, and turn raw information into actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- **Languages:** Python, SQL, R
+- **Data Analysis:** pandas, exploratory data analysis, statistical analysis
+- **Databases:** PostgreSQL, SQL Server
+- **Visualization:** Power BI, Tableau, Excel
+- **Tools:** Git, GitHub, Jupyter Notebook
+
+## Featured Projects
+
+### 🏥 [Hospital Cost Longitudinal Analysis](https://github.com/cheans409/hospital-cost-longitudinal-analytics)
+Analyzed 10 years of hospital financial data using Python and SQL to investigate healthcare cost trends, hospital performance, and differences across facility sizes.
+
+### 💳 [Student Spending Analysis](https://github.com/cheans409/student-spending-analysis)
+Used Python and pandas to explore student spending patterns, examine relationships between financial characteristics and spending, and visualize findings.
+
+### 📊 [COVID-19 Deaths and Vaccination Analysis](https://github.com/cheans409/Covid-19-deaths-and-Vaccination-analysis)
+Used SQL Server, Excel, and Tableau to investigate COVID-19 trends, vaccination progress, and geographic differences.
+
+### 📈 S&P 500 Market Analysis
+Exploring market trends, volatility, and sector performance through Python-based financial data analysis.
+
+## Currently Learning
+
+- Cloud data warehousing with Google BigQuery
+- Advanced SQL for analytics
+- Business intelligence and dashboard development
+
+## Connect
+
+[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/cheans409)
