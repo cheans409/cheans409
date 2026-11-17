@@ -8,11 +8,14 @@ I enjoy working with data to identify trends, investigate business questions, an
 
 - **Languages:** Python, SQL, R
 - **Data Analysis:** pandas, exploratory data analysis, statistical analysis
-- **Databases:** PostgreSQL, SQL Server
+- **Databases & Cloud:** PostgreSQL, SQL Server, Google BigQuery
 - **Visualization:** Power BI, Tableau, Excel
 - **Tools:** Git, GitHub, Jupyter Notebook
 
 ## Featured Projects
+
+### ⚡ [Washington EV Market Analysis with BigQuery](https://github.com/cheans409/ev-bigquery-warehouse)
+Designed the warehouse architecture for a project analyzing nearly 300,000 electric vehicles with Google BigQuery. The project explores manufacturer share and county-level EV concentration, with validated data models and partitioned tables that reduced data scanned by approximately 58% in a benchmark. Developed with AI-assisted SQL implementation and validation.
 
 ### 🏥 [Hospital Cost Longitudinal Analysis](https://github.com/cheans409/hospital-cost-longitudinal-analytics)
 Analyzed 10 years of hospital financial data using Python and SQL to investigate healthcare cost trends, hospital performance, and differences across facility sizes.
