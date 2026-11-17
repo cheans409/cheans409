@@ -29,7 +29,6 @@ Used SQL Server, Excel, and Tableau to investigate COVID-19 trends, vaccination 
 
 ## Currently Learning
 
-- Cloud data warehousing with Google BigQuery
 - Advanced SQL for analytics
 - Business intelligence and dashboard development
 
